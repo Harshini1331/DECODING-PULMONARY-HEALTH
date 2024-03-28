@@ -24,7 +24,7 @@ Pulmonary diseases pose significant challenges to public health worldwide, with 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![image](https://github.com/Harshini1331/DECODING-PULMONARY-HEALTH/assets/75235554/35751680-52e9-4243-94fd-9f8c4a7eba85)
+![image](https://github.com/Harshini1331/DECODING-PULMONARY-HEALTH/assets/75235554/da7ed0ce-748c-4a7b-a946-330f2113e753)
 
 ## Output
 
